@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\NLog.EFT.Trainer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\NLog.EFT.Trainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\NLog.EFT.Trainer.csproj",
+        "projectName": "NLog.EFT.Trainer",
+        "projectPath": "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\NLog.EFT.Trainer.csproj",
+        "packagesPath": "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KRUG_DEVELOPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Microsoft.Unity.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.12.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

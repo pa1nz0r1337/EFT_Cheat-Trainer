@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BJKrPxeVTgsX1KmXaoe0KXGQ5IazB6XqJQJauk5ytKWiFFcjZNdIP9kIO19ZM5ixOIIP4mC4vAUpMVKdEHXBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\Installer\\Installer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.18.2\\ilrepack.lib.msbuild.task.2.0.18.2.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.1\\microsoft.codeanalysis.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.1\\microsoft.codeanalysis.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.unity.analyzers\\1.12.0\\microsoft.unity.analyzers.1.12.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\spectre.console\\0.43.0\\spectre.console.0.43.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.reflection.metadata\\6.0.0\\system.reflection.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\wcwidth\\0.6.0\\wcwidth.0.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

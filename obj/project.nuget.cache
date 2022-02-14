@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6RisOhIXQJBvekga3Eozpezh8eD+r+UJIQb0YH7/hQXo1Q2j9nY2xtIOSpJWDGOg1iusBV3aE3HITapkQon6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KRUG_DEVELOPER\\Desktop\\source\\EscapeFromTarkov-Trainer-master\\NLog.EFT.Trainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\KRUG_DEVELOPER\\.nuget\\packages\\microsoft.unity.analyzers\\1.12.0\\microsoft.unity.analyzers.1.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
